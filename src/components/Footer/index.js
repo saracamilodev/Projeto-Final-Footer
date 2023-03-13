@@ -5,8 +5,7 @@ import logo from './logodsc.png';
 
 export default function Footer() {
 
-    return (
-        
+    return (      
     <div className='footer-body'>
         <div className='footer-one'>
         <div>
@@ -45,6 +44,7 @@ export default function Footer() {
 
         <div className='footer-container-item1'>
             <h3>Categorias</h3>
+            
             <li>
                 <a href='#' className='footer-link'>Camisetas</a>
             </li>
